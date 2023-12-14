@@ -1,2 +1,4 @@
 # Native-ad-inside-RecyclerView
-Basically this is how to implement ads inside a recycleView
+This is how to implement ads inside a recycleView
+
+-working on step by step will update once done 
